@@ -31,6 +31,7 @@
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="EditorTextEnd" />
+  <action id="Exit" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -42,6 +43,9 @@
   </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
   <action id="QuickImplementations" />
   <action id="ResizeToolWindowRight" />
 </keymap>
